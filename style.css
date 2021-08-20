@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ffff33, #ff8c1a);
+}
+
+h1 {
+    font-size: 30;
+    font-weight: bold;
+    font-family: Cambria;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 25;
+    font-family: Georgia;
+    margin-left: 25px;
+    margin-right: 25px;
+}
